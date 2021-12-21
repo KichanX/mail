@@ -19,8 +19,5 @@ python temp.py
 + email expired 1 week
 + Support Message with emote, html
 
-# Mau Melihat Hasilnya?
-![img](https://github.com/hekelpro/temp-mail/blob/main/bukti.JPG)
-
 # NOTE: SELAIN FILE IMAGE/GAMBAR TIDAK TERBACA
 
